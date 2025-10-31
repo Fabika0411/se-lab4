@@ -1,0 +1,3 @@
+#primary is empty, secondary not, tries secondary
+GT4500,0,0,1,0
+TORPEDO,SINGLE #should fire from secondary

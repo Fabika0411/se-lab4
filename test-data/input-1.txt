@@ -1,0 +1,3 @@
+#shot was fired from primary before, fire again
+GT4500,1,0,1,0
+TORPEDO,SINGLE #should fire from secondary
