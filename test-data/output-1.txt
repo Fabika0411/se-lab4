@@ -1,0 +1,2 @@
+SUCCESS # Initialization of GT4500
+SUCCESS #firing all torpedos
