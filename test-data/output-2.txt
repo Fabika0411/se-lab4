@@ -1,0 +1,2 @@
+SUCCESS #Initialization of GT4500
+FAIL #firing all torpedo while there are none in the storages
